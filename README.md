@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=dark&font=Noto%20Sans%20Telugu&ext=heatmap) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=dark&font=Noto%20Sans%20Telugu) 
 ![](https://raw.githubusercontent.com/KhaledGhonem724/cf-stats/main/output/light_card.svg)
 
 
