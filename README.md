@@ -1,5 +1,5 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=dark&font=Noto%20Sans%20Telugu) 
-![](https://raw.githubusercontent.com/KhaledGhonem724/cf-stats/main/output/light_card.svg)
+<!-- ![](https://raw.githubusercontent.com/KhaledGhonem724/cf-stats/main/output/light_card.svg) -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledGhonem724&theme=algolia&card_width=500&hide_title=true&show=prs_merged&show_icons=true&icon_color=27d4f1&ring_color=27d4f1)
