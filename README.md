@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Khalid 
+  Hi there, I'm Khaled Ghonim
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
