@@ -12,20 +12,6 @@
 </p> 
 
 
-
-
-
-
-
-<p align="center">
-<!-- <a target="_blank" href="https://thomasgeorgethomas.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	-->
-<a target="_blank" href="https://www.linkedin.com/in/khaled-ghonem-0b4023229/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:KhaledGhonem724@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://wa.me/qr/SEC5T6OKSHHGP1"><img src="https://img.shields.io/badge/-WhatsApp-30d14e?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
-<a target="_blank" href="https://www.youtube.com/@khaledghonem724"><img src="https://img.shields.io/badge/-subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
-<br>
-</p>  
-
 ## 💻 Technologies and Tools:
 ### What I Know:
 <img src="https://img.shields.io/badge/-PHP-4d588e?&logo=php&labelColor=4d588e&logoColor=white&logoSize=auto" alt="PHP logo" title="PHP" height="25" />&nbsp;
@@ -70,3 +56,16 @@
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=dark&font=Noto%20Sans%20Batak&ext=heatmap)<br>
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=nord&font=Noto%20Sans%20Batak&ext=heatmap)<br> -->
+
+<h2> 
+  📬 Contact me &nbsp;&nbsp;&nbsp;
+</h2>  
+
+<p align="center">
+<!-- <a target="_blank" href="https://thomasgeorgethomas.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	-->
+<a target="_blank" href="https://www.linkedin.com/in/khaled-ghonem-0b4023229/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:KhaledGhonem724@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://wa.me/qr/SEC5T6OKSHHGP1"><img src="https://img.shields.io/badge/-WhatsApp-30d14e?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+<a target="_blank" href="https://www.youtube.com/@khaledghonem724"><img src="https://img.shields.io/badge/-subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+<br>
+</p>  
