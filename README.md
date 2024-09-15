@@ -3,6 +3,20 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem-solving%20Trainer;Undergraduate%20Software%20Engineer;Back-end%20web%20developer&font=Fira%20Code&center=true&width=600&height=45&color=7F7F7F&vCenter=true&size=25">
+  </a>
+</p> 
+
+
+
+
+
+
+
 <p align="center">
 <!-- <a target="_blank" href="https://thomasgeorgethomas.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	-->
 <a target="_blank" href="https://www.linkedin.com/in/khaled-ghonem-0b4023229/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
