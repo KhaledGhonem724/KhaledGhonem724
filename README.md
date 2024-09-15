@@ -6,7 +6,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a target="_blank" href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem-solving%20Trainer;Undergraduate%20Software%20Engineer;Back-end%20web%20developer&font=Fira%20Code&center=true&width=600&height=45&color=7F7F7F&vCenter=true&size=25">
   </a>
 </p> 
@@ -22,8 +22,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/khaled-ghonem-0b4023229/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:KhaledGhonem724@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://wa.me/qr/SEC5T6OKSHHGP1"><img src="https://img.shields.io/badge/-WhatsApp-30d14e?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
-<a target="_blank" href="https://leetcode.com/u/Khaled_Ghonem_2002/"><img src="https://img.shields.io/badge/-LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
-<a target="_blank" href="https://codeforces.com/profile/khaledghonem"><img src="https://img.shields.io/badge/-Codeforces-1DA1F2?style=for-the-badge&logo=codeforces&logoColor=white"></img></a>
+<a target="_blank" href="https://www.youtube.com/@khaledghonem724"><img src="https://img.shields.io/badge/-subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 <br>
 </p>  
 
@@ -53,10 +52,18 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledGhonem724&theme=algolia&card_width=500&hide_title=true&show_icons=true&icon_color=27d4f1&ring_color=27d4f1&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledGhonem724&theme=algolia&langs_count=6&layout=compact&card_width=200&title_color=27d4f1)](https://github.com/anuraghazra/github-readme-stats)
 
-## Problem Solving
+<h2> 
+  Problem Solving &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-LeetCode-ffa116?style=plastic&logo=leetcode&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/-Codeforces-1DA1F2?style=plastic&logo=codeforces&logoColor=white"></img>
+</h2>  
+
+
+
+
 ### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=dark&font=Noto%20Sans%20Telugu) 
-<!-- ![](https://raw.githubusercontent.com/KhaledGhonem724/cf-stats/main/output/light_card.svg) -->
-
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=dark&font=Noto%20Sans%20Batak&ext=heatmap)<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=nord&font=Noto%20Sans%20Batak&ext=heatmap)<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=forest&font=Noto%20Sans%20Batak&ext=heatmap)<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=light&font=Noto%20Sans%20Batak&ext=heatmap)<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Khaled_Ghonem_2002?theme=unicorn&font=Noto%20Sans%20Batak&ext=heatmap)<br>
