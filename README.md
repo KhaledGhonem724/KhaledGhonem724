@@ -16,7 +16,6 @@
 ### What I Know:
 <img src="https://img.shields.io/badge/-PHP-4d588e?&logo=php&labelColor=4d588e&logoColor=white&logoSize=auto" alt="PHP logo" title="PHP" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/-python-f7cc40?&logo=python&labelColor=f7cc40&logoColor=346fa0&logoSize=auto" alt="python logo" title="python" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/-Java-555555?&logo=Java&logoSize=auto" alt="Java logo" title="Java" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/-C++-00599c?&logo=c%2b%2b&labelColor=00599c&logoSize=auto" alt="CPP logo" title="CPP" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-42759c?&logo=MySQL&labelColor=42759c&logoColor=white&logoSize=auto" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/-Laravel-f72c1f?&logo=Laravel&labelColor=f72c1f&logoColor=white&logoSize=auto" alt="Laravel logo" title="Laravel" height="25"  />&nbsp;
